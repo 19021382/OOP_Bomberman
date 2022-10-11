@@ -1,2 +1,2 @@
-Bomberman Clone
+# Bomberman Clone
 A Java game
